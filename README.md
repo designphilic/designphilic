@@ -8,7 +8,7 @@ Built with ❤️ by [Themesberg](https://themesberg.com) based on Tailwind CSS 
 
 Check out a live demo by clicking here:
 
-🔗 [Landwind live preview](https://https://demo.themesberg.com/landwind/) (🌗 switch on dark mode using your computer preferences)
+🔗 [Designphilic live preview](https://https://demo.themesberg.com/landwind/) (🌗 switch on dark mode using your computer preferences)
 
 ## Getting started
 
