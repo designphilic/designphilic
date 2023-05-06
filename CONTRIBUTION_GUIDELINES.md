@@ -1,16 +1,6 @@
 # Contributing Guide
 
-A template for writing your own contributing guide. Contributing guides are helpful documents that communicate how people can contribute to your open source project.
-
-This template is meant to be a checklist to make sure you haven’t missed anything, rather than offering guidance on philosophy or approach. Your final guidelines may differ depending on your project and needs.
-
-I made this template to share what I learned after reviewing 40 open source projects of all sizes and their contributing guides (or lack thereof). Thanks to all the examples used in this template:
-
-[Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md), [Read The Docs](http://read-the-docs.readthedocs.org/en/latest/contribute.html), [Mustache.js](https://github.com/janl/mustache.js/#contributing), [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md), [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md), [Devise](https://github.com/plataformatec/devise/blob/master/CONTRIBUTING.md), [Geocoder](https://github.com/alexreisner/geocoder#contributing), [Flask](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst), [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md), [Cookiecutter](https://github.com/audreyr/cookiecutter/blob/master/CONTRIBUTING.rst), [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst), [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [Django](https://github.com/django/django/blob/master/CONTRIBUTING.rst), [React](https://github.com/facebook/react/blob/master/CONTRIBUTING.md), [Require.js](https://requirejs.org/docs/contributing.html), [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md), [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md), [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md), [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md), [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md), [Express](https://github.com/expressjs/express/blob/master/Contributing.md), [Meteor](https://github.com/meteor/meteor/blob/devel/CONTRIBUTING.md), [Angular](https://github.com/angular/angular/blob/master/CONTRIBUTING.md), [StandardIssueLabels](https://github.com/wagenet/StandardIssueLabels#standardissuelabels)
-
-Special thanks also to @mikeal and his post ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951) about Node.js's contribution policies for inspiring this project.
-
-# How to get started
+## How to get started
 To use this template, create CONTRIBUTING.md in the top level of your project, copy the template, and fill it out with your information.
 
 When you’re done, make sure people see your shiny new contributing guide:
