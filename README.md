@@ -30,7 +30,7 @@ Alternatively you can also just directly copy this code into your own projects, 
 
 We have also built a free Figma design file that you can duplicate from the community website:
 
-👉 [Designphilic Figma file](https://www.figma.com/community/file/1125744163617429490)
+👉 [Designphilic Figma file](https://www.figma.com/file/mE2W10KprPqLF9gmtEJRff/DESIGNPHILIC?type=design&node-id=0%3A1&t=RCBfB5mBrOjC5qvu-1)
 
 ## Built with Tailwind CSS and Flowbite
 
